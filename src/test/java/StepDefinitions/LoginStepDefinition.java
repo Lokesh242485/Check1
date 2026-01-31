@@ -11,7 +11,7 @@ import java.util.logging.LogManager;
 import java.util.logging.Logger;
 
 public class LoginStepDefinition {
-  // Check Login
+  // Check Login 1
 
     Logger logger = Logger.getLogger("LoginStepDefinition.java");// LogManager.getLogManager().getLogger("LoginStepDefinition.java");
 
